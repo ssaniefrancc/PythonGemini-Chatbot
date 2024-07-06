@@ -1,1 +1,1 @@
-# Simple-Gemini-Chatbot-Structure
+# Pyhon Chatbot with Gemini API
